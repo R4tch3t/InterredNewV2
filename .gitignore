@@ -4,6 +4,7 @@
 
 # Xcode
 #
+out/
 .next/
 build/
 *.pbxuser
