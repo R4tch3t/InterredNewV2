@@ -13,10 +13,10 @@ const Topbar = () => {
             
                 <div className="topbar-right">
                     <div className="topbar-widget">
-                        <Link href="/#"><i className="fa fa-phone"></i>+52 756 688 2095</Link>
+                        <Link href="https://wa.me/+527566882095" target='_blank' ><i className="fa fa-phone"></i>+52 756 688 2095</Link>
                     </div>
                     <div className="topbar-widget">
-                        <Link href="/#"><i className="fa fa-envelope"></i>interredtelecom@gmail.com</Link>
+                        <Link href="mailto:interredtelecom@gmail.com"><i className="fa fa-envelope"></i>interredtelecom@gmail.com</Link>
                     </div>
                 </div>  
                 <div className="clearfix"></div>
